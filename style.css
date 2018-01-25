@@ -1,0 +1,29 @@
+body {color:#00CED1;}
+table {
+margin:auto;
+border-spacing:0px;
+color:green;
+
+}
+td {
+border:2px solid green;
+	height:30px;
+	width:60px;
+}
+tr {
+	height:30px;
+}
+.example1, .example2 {visibility:collapse;}
+.example1 {height:0px;}
+.example2 {width:0px;}
+p {
+text-align:center;
+font-family:sans-serif;
+font-size:11px;
+}
+
+hr {
+align:center;
+width:50%;
+}
+
